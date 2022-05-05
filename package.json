@@ -1,0 +1,18 @@
+{
+  "name": "web3-nodejs-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.16",
+    "web3": "^1.7.3"
+  }
+}
